@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\deploy\BackendDeploy</_PublishTargetUrl>
+    <History>True|2024-10-21T11:43:47.2217603Z||;True|2024-10-21T17:13:16.0129836+05:30||;True|2024-10-21T12:33:44.3237711+05:30||;True|2024-10-19T02:40:43.5353200+05:30||;True|2024-10-18T22:00:31.4675826+05:30||;True|2024-10-18T01:26:37.7994218+05:30||;True|2024-10-18T01:07:46.6711614+05:30||;True|2024-10-18T01:02:04.6210099+05:30||;True|2024-10-18T00:33:39.1358357+05:30||;True|2024-10-18T00:33:23.6620074+05:30||;True|2024-10-18T00:05:59.3082565+05:30||;True|2024-10-18T00:01:22.4094953+05:30||;True|2024-10-17T22:46:22.7592165+05:30||;True|2024-10-17T22:37:08.2915682+05:30||;True|2024-10-17T21:23:57.6301694+05:30||;True|2024-10-17T21:20:16.1048244+05:30||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=KINGMZK\SQLEXPRESS%3bDatabase=ProductCRUD%3bUser Id=kingmzk%3bPassword=kingmzk%3bMultipleActiveResultSets=true%3bTrustServerCertificate=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

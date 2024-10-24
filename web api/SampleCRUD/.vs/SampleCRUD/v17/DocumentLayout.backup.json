@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sample CRUD\\web api\\SampleCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|d:\\sample crud\\web api\\samplecrud\\samplecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|solutionrelative:samplecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|d:\\sample crud\\web api\\samplecrud\\samplecrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|solutionrelative:samplecrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|d:\\sample crud\\web api\\samplecrud\\samplecrud\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|solutionrelative:samplecrud\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|d:\\sample crud\\web api\\samplecrud\\samplecrud\\samplecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|solutionrelative:samplecrud\\samplecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|d:\\sample crud\\web api\\samplecrud\\samplecrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|solutionrelative:samplecrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|d:\\sample crud\\web api\\samplecrud\\samplecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|solutionrelative:samplecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|d:\\sample crud\\web api\\samplecrud\\samplecrud\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D37DDE-FD93-42F9-9E94-6DF7584228E6}|SampleCRUD\\SampleCRUD.csproj|solutionrelative:samplecrud\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\.env",
+              "RelativeDocumentMoniker": "SampleCRUD\\.env",
+              "ToolTip": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\.env",
+              "RelativeToolTip": "SampleCRUD\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-18T19:05:06.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SampleCRUD.csproj",
+              "DocumentMoniker": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\SampleCRUD.csproj",
+              "RelativeDocumentMoniker": "SampleCRUD\\SampleCRUD.csproj",
+              "ToolTip": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\SampleCRUD.csproj",
+              "RelativeToolTip": "SampleCRUD\\SampleCRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T16:13:28.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SampleCRUD\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SampleCRUD\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAmwGgBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:54:46.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "SampleCRUD\\Program.cs",
+              "ToolTip": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\Program.cs",
+              "RelativeToolTip": "SampleCRUD\\Program.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAADwv7cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:39:18.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleCRUD\\appsettings.json",
+              "ToolTip": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\appsettings.json",
+              "RelativeToolTip": "SampleCRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T11:38:26.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "SampleCRUD\\Models\\ProductDbContext.cs",
+              "ToolTip": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "SampleCRUD\\Models\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:19:50.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SampleCRUD\\Models\\Product.cs",
+              "ToolTip": "D:\\sample CRUD\\web api\\SampleCRUD\\SampleCRUD\\Models\\Product.cs",
+              "RelativeToolTip": "SampleCRUD\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:14:37.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
